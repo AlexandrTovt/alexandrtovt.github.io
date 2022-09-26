@@ -677,6 +677,12 @@ body {
     .card__element-two {
         display: none;
     }
+    .card-reverse__element-one {
+        display: none;
+    }
+    .card-reverse__element-two {
+        display: none;
+    }
     .content {
         flex: 0 1 50%;
     }
